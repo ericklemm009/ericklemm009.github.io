@@ -1,7 +1,22 @@
-/* 
-        Howdy! 
-        This is your styling page (css: casscading style sheet)
-        
-        This is a comment. Outside of this section, you will add
-        specific styles to add some pizzaz to your website.
- */
+body {
+        background-image: url('img/background.png');
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .name {
+        font-size: 75px;
+        color: rgb(228, 218, 218);
+        padding-top: 12%;
+        padding-bottom: 0%;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .backtext {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 50px;
+            color:white;
+            font-family: 'Oswald', sans-serif;
+            margin: 0;
+    }
